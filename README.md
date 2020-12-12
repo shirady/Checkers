@@ -16,3 +16,4 @@ The game finishes when one of the scenarios happens.
 1) One of the Players has no more pieces.
 2) When one of T pieces reaches line H.
 3) When one of B pieces reaches line A.
+
