@@ -1,9 +1,0 @@
-﻿  binary_files.c
-  board_and_general.c
-  list.c
-  list_of_lists.c
-  main.c
-  tree.c
-  turn_game.c
-  Generating Code...
-  damka31.7.vcxproj -> C:\Users\victo\source\repos\Checkers\damka31.7\Debug\damka31.7.exe
